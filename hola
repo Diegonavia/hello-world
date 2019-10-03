@@ -1,2 +1,7 @@
 testing jenkins pipeline
+<<<<<<< HEAD
 test 2
+=======
+test
+.
+>>>>>>> 2bd75abb4d82b608c0944332965774cd72e28060
